@@ -1,2 +1,2 @@
 # Arunbca
-storeprojects
+to storeprojects
